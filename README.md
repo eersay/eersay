@@ -48,7 +48,7 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eersay&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
+![Aurora](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00C9A7&center=true&vCenter=true&width=500&lines=%F0%9F%8E%A7+Now+playing%3A+Runaway+-+AURORA;Artist%3A+AURORA;%E2%99%AB+%E2%99%AB+%E2%99%AB)
 ---
 
 ### 📫 Let's Connect
