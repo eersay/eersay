@@ -49,7 +49,13 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eersay&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 ---
-![Aurora](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=00C9A7&center=true&vCenter=true&width=500&lines=%F0%9F%8E%A7+Now+playing%3A+Runaway+-+AURORA;Artist%3A+AURORA;%E2%99%AB+%E2%99%AB+%E2%99%AB)
+<div align="center">
+  <img src="https://media.giphy.com/media/3o6ZsYm5YxofG1CKEC/giphy.gif" width="200"/>
+  <br/>
+  <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI">
+    <img src="https://img.shields.io/badge/AURORA-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</div>
 
 ---
 ### 📫 Let's Connect
