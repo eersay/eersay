@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Bhagyasree%20Roy&fontSize=50&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1F1C2C,100:8E2DE2&height=200&section=header&text=Bhagyasree%20Roy&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Analyst;MCA+Student+%40+CHRIST+University;Python+%E2%80%A2+SQL+%E2%80%A2+ML+%E2%80%A2+Cloud;Exploring+RAG+Applications)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Analyst;MCA+Student+%40+CHRIST+University;Python+%E2%80%A2+SQL+%E2%80%A2+ML+%E2%80%A2+Cloud;Exploring+RAG+Applications)
 
 </div>
 
@@ -54,6 +54,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyasree-roy)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagyasree.roy04@gmail.com)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:1F1C2C&height=100&section=footer)
 
 </div>
