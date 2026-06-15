@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hey, I'm Bhagyasree Roy 👋
-### Data & Systems Analyst | MCA Student @ CHRIST University
+![Header](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=200&section=header&text=Bhagyasree%20Roy&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
-*Turning raw data into decisions — one dataset at a time* 📊
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+%26+Systems+Analyst;MCA+Student+%40+CHRIST+University;Python+%E2%80%A2+SQL+%E2%80%A2+ML+%E2%80%A2+Cloud;Exploring+RAG+Applications)
 
 </div>
 
@@ -54,5 +53,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhagyasree-roy)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhagyasree.roy04@gmail.com)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer)
 
 </div>
