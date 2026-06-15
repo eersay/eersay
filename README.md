@@ -48,14 +48,6 @@
 ---
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eersay&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
----
-<div align="center">
-  <img src="https://media.giphy.com/media/3o6ZsYm5YxofG1CKEC/giphy.gif" width="200"/>
-  <br/>
-  <a href="https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI">
-    <img src="https://img.shields.io/badge/AURORA-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
-  </a>
-</div>
 
 ---
 ### 📫 Let's Connect
